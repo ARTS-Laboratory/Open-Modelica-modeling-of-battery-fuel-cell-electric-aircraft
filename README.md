@@ -1,9 +1,9 @@
-# Open-Modelica-modeling-of-battery-fuel-cell-electric-aircraft
+# Open Modelica modeling of battery fuel cell electric aircraft
 Open Modelica modeling of battery/fuel-cell electric aircraft
 
 
 ## Models
-Models of battery fuel cell electric aricraft
+Models of battery fuel cell electric aircraft
 
 
 
