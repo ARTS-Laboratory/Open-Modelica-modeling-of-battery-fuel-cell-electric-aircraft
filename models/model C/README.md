@@ -1,6 +1,5 @@
 # Model C
 Model B plus battery and hydrogen tank 
 
-Required third party libraries:
---ElectricalEnergyStorage https://github.com/modelica-3rdparty/ElectricalEnergyStorage
+Requires usage of the following third-party library/libraries:
 --PowerSystems https://github.com/modelica-3rdparty/PowerSystems
