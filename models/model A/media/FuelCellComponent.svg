@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1461.000000 394.000000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(792.38, 131.48) translate(0, 0) scale(1,-1)" x="-12.5" y="-5.5" width="25" height="11"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="776.000000,131.480000 779.640000,131.480000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="805.120000,131.480000 808.760000,131.480000"/>
+	<text fill="rgb(0,0,0)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="792.38" y="142.4">R=R_i</text>
+	<text fill="rgb(0,0,255)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="792.38" y="118.74">Internal_resistance</text>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="703.928000,75.424000 703.928000,85.616000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="706.112000,75.424000 706.112000,85.616000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="688.640000,80.520000 703.928000,80.520000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="706.112000,80.520000 721.400000,80.520000"/>
+	<text fill="rgb(0,0,0)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="705.02" y="91.44">C=C_dl</text>
+	<text fill="rgb(0,0,255)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="705.02" y="67.78">Double_layer_capacitance</text>
+	<rect fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(705.02, 171.52) translate(0, 0) scale(1,-1)" x="-12.5" y="-5.5" width="25" height="11"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="688.640000,171.520000 692.280000,171.520000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="717.760000,171.520000 721.400000,171.520000"/>
+	<text fill="rgb(0,0,0)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="705.02" y="182.44">R=R_d</text>
+	<text fill="rgb(0,0,255)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="705.02" y="158.78">Dynamic_resistance</text>
+	<ellipse fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform=" rotate(-270, 592.18, 197)" cx="592.18" cy="197" rx="9.1" ry="9.1"/>
+	<text fill="rgb(0,0,255)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" transform="translate(606.74, 197) rotate(-270)">Open_circuit_voltage</text>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="592.180000,180.620000 592.180000,213.380000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="595.820000,182.440000 595.820000,186.080000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="597.640000,184.260000 594.000000,184.260000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="595.820000,207.920000 595.820000,211.560000"/>
+	<text fill="rgb(0,0,0)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" transform="translate(575.8, 197) rotate(-270)">V=E_oc</text>
+	<polyline fill="none" stroke="rgb(255,255,255)" stroke-width="5" stroke-opacity="1" points="723.220000,80.520000 741.420000,80.520000 741.420000,171.520000 723.220000,171.520000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="723.220000,80.520000 741.420000,80.520000 741.420000,171.520000 723.220000,171.520000"/>
+	<polyline fill="none" stroke="rgb(255,255,255)" stroke-width="5" stroke-opacity="1" points="686.820000,80.520000 668.620000,80.520000 668.620000,171.520000 686.820000,171.520000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="686.820000,80.520000 668.620000,80.520000 668.620000,171.520000 686.820000,171.520000"/>
+	<polyline fill="none" stroke="rgb(255,255,255)" stroke-width="5" stroke-opacity="1" points="774.180000,131.480000 741.420000,131.480000 741.420000,171.520000 723.220000,171.520000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="774.180000,131.480000 741.420000,131.480000 741.420000,171.520000 723.220000,171.520000"/>
+	<polyline fill="none" stroke="rgb(255,255,255)" stroke-width="5" stroke-opacity="1" points="592.180000,178.800000 592.180000,124.200000 668.620000,124.200000 668.620000,171.520000 686.820000,171.520000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="592.180000,178.800000 592.180000,124.200000 668.620000,124.200000 668.620000,171.520000 686.820000,171.520000"/>
+	<polyline fill="none" stroke="rgb(255,255,255)" stroke-width="5" stroke-opacity="1" points="592.180000,215.200000 592.180000,269.800000 912.500000,269.800000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="592.180000,215.200000 592.180000,269.800000 912.500000,269.800000"/>
+	<polyline fill="none" stroke="rgb(255,255,255)" stroke-width="5" stroke-opacity="1" points="810.580000,131.480000 912.500000,131.480000"/>
+	<polyline fill="none" stroke="rgb(0,0,255)" stroke-opacity="1" points="810.580000,131.480000 912.500000,131.480000"/>
+	<ellipse fill="rgb(0,0,255)" stroke="rgb(0,0,255)" cx="668.62" cy="124.2" rx="3" ry="3"/>
+	<ellipse fill="rgb(0,0,255)" stroke="rgb(0,0,255)" cx="741.42" cy="131.48" rx="3" ry="3"/>
+	<rect fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(912.5, 269.8) translate(0, 0) scale(1,-1)" x="-4.5" y="-4.5" width="9" height="9"/>
+	<text fill="rgb(0,0,255)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="919.052" y="261.064">pin_n</text>
+	<rect fill="rgb(0,0,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(912.5, 131.48) rotate(-180) translate(0, 0)" x="-4.5" y="-4.5" width="9" height="9"/>
+	<text fill="rgb(0,0,255)" font-size="10" font-family="Arial" text-anchor="middle" dominant-baseline="central" x="919.052" y="122.744">pin_p</text>
+	<rect fill="rgb(0,0,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(774.18, 131.48) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+	<rect fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(810.58, 131.48) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+	<rect fill="rgb(0,0,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(686.82, 80.52) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+	<rect fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(723.22, 80.52) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+	<rect fill="rgb(0,0,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(686.82, 171.52) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+	<rect fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(723.22, 171.52) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+	<rect fill="rgb(0,0,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(592.18, 178.8) rotate(-270) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+	<rect fill="rgb(255,255,255)" stroke="rgb(0,0,255)" stroke-opacity="1" transform="translate(592.18, 215.2) rotate(-270) translate(0, 0) scale(1,-1)" x="-2" y="-2" width="4" height="4"/>
+</svg>
