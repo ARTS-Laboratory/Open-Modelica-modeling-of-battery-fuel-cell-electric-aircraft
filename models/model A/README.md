@@ -1,6 +1,6 @@
 ## Model A
 # Fuel Cell Simplified Electrical Model
-This repository contains a Modelica-based Fuel Cell model that replicates the Simscape Fuel Cell Simplified Electrical Model which can be found here: https://www.mathworks.com/help/sps/ref/fuelcell.html. 
+This repository contains a Modelica-based Fuel Cell model that replicates the Simscape Fuel Cell Simplified Electrical Model which can be found here: https://www.mathworks.com/help/sps/ref/fuelcell.html. Model can also be found in the BFCEA library (as BFCEA.simpleFC).
 
 ![Simple FC in Simulink](media/Simple_FC.png)
 
