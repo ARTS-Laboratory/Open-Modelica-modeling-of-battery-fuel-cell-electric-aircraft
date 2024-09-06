@@ -1,6 +1,6 @@
 # Model B
 
-Fuel in model A with booster and inverter
+Fuel cell from Model A with DC/DC booster and inverter.
 
 Requires usage of the following third-party library/libraries: --PowerSystems https://github.com/modelica-3rdparty/PowerSystems
 
