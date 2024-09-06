@@ -2,7 +2,16 @@
 # Fuel Cell Simplified Electrical Model
 This repository contains a Modelica-based Fuel Cell model that replicates the Simscape Fuel Cell Simplified Electrical Model which can be found [here](https://www.mathworks.com/help/sps/ref/fuelcell.html). The model can also be found in the BFCEA library (as BFCEA.simpleFC).
 
-![Simple FC in Simulink](media/Simple_FC.png)
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 45%;">
+    <img src="media/Simple_FC_AI_2.png" alt="Simple FC Icon in Dymola" style="width:45%;">
+    <p><strong>Simulink</strong> - Voltage output of the Fuel Cell model in Simulink.</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="media/FuelCellComponent.svg" alt="Simple FC Component" style="width:100%;">
+    <p><strong>Dymola</strong> - Voltage output of the Fuel Cell model in Dymola.</p>
+  </div>
+</div>
 
 The model is designed to be functionally equivalent to the Simscape version model. This repository includes simulation results showcasing the fuel cell's voltage and power output in both Simulink and Dymola, demonstrating the consistency and accuracy of the Modelica implementation.
 
