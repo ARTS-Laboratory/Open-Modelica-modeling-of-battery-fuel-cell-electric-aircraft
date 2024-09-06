@@ -14,7 +14,7 @@ The model is designed to be functionally equivalent to the Simscape version mode
     <p><strong>Simulink</strong> - Voltage output of the Fuel Cell model in Simulink.</p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_Voltage_output_in_Dymola.svg" alt="Voltage Output in Dymola" style="width:100%;">
+    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_V_FC.svg" alt="Voltage Output in Dymola" style="width:100%;">
     <p><strong>Dymola</strong> - Voltage output of the Fuel Cell model in Dymola.</p>
   </div>
 </div>
