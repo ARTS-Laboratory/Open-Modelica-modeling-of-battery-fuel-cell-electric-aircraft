@@ -36,7 +36,7 @@ The model is designed to be functionally equivalent to the Simscape version mode
     <p><strong>Simulink</strong> - Power output of the Fuel Cell model in Simulink.</p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_Power_output_in_Dymola.svg" alt="Power Output in Dymola" style="width:60%;">
+    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_Pelec.svg" alt="Power Output in Dymola" style="width:60%;">
     <p><strong>Dymola</strong> - Power output of the Fuel Cell model in Dymola.</p>
   </div>
 </div>
