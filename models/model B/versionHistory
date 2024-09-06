@@ -1,0 +1,4 @@
+v1 - Base model.  Uses simpleFC.mo component (unattached/unassociated with a library) and has annontations indicating usage of ElectricalEnergyStorage library 
+version 3.2.2 (versioning issues when combined with PowerSystems library version 2.0.0).
+
+v2 - Updated to use simpleFC component located in the BFCEA library. Deletes annotation indicating usage of ElectricalEnergyStorage library.
