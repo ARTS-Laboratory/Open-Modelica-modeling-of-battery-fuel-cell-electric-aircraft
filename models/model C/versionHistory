@@ -1,0 +1,6 @@
+v1 - Base Model.  Identical to Model B v1.
+v2 - Updated annotation to work with ElectricalEnergyStorage library version 3.2.3 and PowerSystems library version 2.0.0 (note: causes library versioning issue)
+v3 - Battery stack added in parallel with fuel cell using PSBatteryStack.mo, based on components from the ElectricalEnergyStorage library.  Within PSBatteryStack.mo, the 
+component PSCellCalculator.mo is used.  Versioning issue still extant.
+v4 - Updated to resolve versioning issues.  Annotations now indicate to use PowerSystems version 2.0.0 and Modelica 4.0.0; PSBatterySystems.mo is now based on components from the standard library.
+v5 - Updated to make use of simpleFC and PSBatteryStack as part of the BFCEA library, rather than stand-alone components.

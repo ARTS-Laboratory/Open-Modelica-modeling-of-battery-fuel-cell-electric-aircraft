@@ -1,4 +1,4 @@
-model hybridFC_v001
+model Model_C_v1
   PowerSystems.AC1ph_DC.Sources.DCvoltage voltage1(pol = 0, puUnits = false, use_vDC_in = true) annotation(
     Placement(visible = true, transformation(origin = {-196, 14}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
   PowerSystems.AC1ph_DC.Nodes.GroundOne ground annotation(
@@ -93,4 +93,4 @@ equation
     Diagram(coordinateSystem(extent = {{-1000, -1000}, {1000, 1000}})),
     version = "",
     Icon(coordinateSystem(extent = {{-1000, -1000}, {1000, 1000}})));
-end hybridFC_v001;
+end Model_C_v1;

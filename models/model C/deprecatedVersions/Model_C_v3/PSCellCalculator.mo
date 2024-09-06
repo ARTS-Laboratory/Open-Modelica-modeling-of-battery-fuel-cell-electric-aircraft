@@ -1,6 +1,6 @@
 block PSCellCalculator "Calculator for the capacity, SOC, SOH,..."
   import ElectricEnergyStorages = ElectricalEnergyStorage;
-  extends Icons.Block;
+  extends ElectricalEnergyStorage.Icons.Block;
   Modelica.Blocks.Interfaces.RealInput i annotation(Placement(transformation(extent = {{-100, 10}, {-80, 30}}, rotation = 0)));
   Modelica.Blocks.Interfaces.RealOutput SOC annotation(Placement(transformation(extent = {{100, 50}, {120, 70}}, rotation = 0)));
   Modelica.Blocks.Interfaces.RealOutput SOH annotation(Placement(transformation(extent = {{100, -70}, {120, -50}}, rotation = 0)));
