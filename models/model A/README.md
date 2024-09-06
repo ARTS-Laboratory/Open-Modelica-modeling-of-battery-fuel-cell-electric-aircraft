@@ -19,11 +19,11 @@ The model is designed to be functionally equivalent to the Simscape version mode
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
-    <img src="media/Voltage_Output_of_Simple_FC.svg" alt="Voltage Output in Simulink" style="width:100%;">
+    <img src="media/Voltage_Output_of_Simple_FC.svg" alt="Voltage Output in Simulink" style="width:60%;">
     <p><strong>Simulink</strong> - Voltage output of the Fuel Cell model in Simulink.</p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_V_FC.svg" alt="Voltage Output in Dymola" style="width:100%;">
+    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_V_FC.svg" alt="Voltage Output in Dymola" style="width:60%;">
     <p><strong>Dymola</strong> - Voltage output of the Fuel Cell model in Dymola.</p>
   </div>
 </div>
@@ -32,11 +32,11 @@ The model is designed to be functionally equivalent to the Simscape version mode
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
-    <img src="media/Power_Output_of_Simple_FC.svg" alt="Power Output in Simulink" style="width:100%;">
+    <img src="media/Power_Output_of_Simple_FC.svg" alt="Power Output in Simulink" style="width:60%;">
     <p><strong>Simulink</strong> - Power output of the Fuel Cell model in Simulink.</p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_Power_output_in_Dymola.svg" alt="Power Output in Dymola" style="width:100%;">
+    <img src="media/Fuel_Cell_Simpilified_Electrical_Model_Power_output_in_Dymola.svg" alt="Power Output in Dymola" style="width:60%;">
     <p><strong>Dymola</strong> - Power output of the Fuel Cell model in Dymola.</p>
   </div>
 </div>
