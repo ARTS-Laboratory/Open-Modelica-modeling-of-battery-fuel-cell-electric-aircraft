@@ -8,10 +8,10 @@ Basic fuel cell.
 Fuel cell model in model A with booster and inverter.
 
 ## Model C
-Model B plus battery and hydrogen tank.
+Model B plus battery mounted in parallel
 
 ## Model D
-Model C hydrogen tank.
+Model C plus (very simple) hydrogen tank
 
 ## Model E
 Model D with Battery and Fuel Cell Management System (BFCMS). This is the energy storage level control.
