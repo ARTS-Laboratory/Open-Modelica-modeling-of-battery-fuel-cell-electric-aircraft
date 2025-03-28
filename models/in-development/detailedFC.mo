@@ -1,4 +1,4 @@
-model newFC
+model detailedFC
   // Constants
   constant Real R = Modelica.Constants.R;
   constant Real F = Modelica.Constants.F;
@@ -102,4 +102,4 @@ equation
   annotation(
     uses(Modelica(version = "4.0.0")),
     Diagram);
-end newFC;
+end detailedFC;
