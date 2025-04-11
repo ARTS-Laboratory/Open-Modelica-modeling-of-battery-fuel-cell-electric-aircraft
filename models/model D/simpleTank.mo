@@ -6,24 +6,23 @@ model simpleTank
     Placement(transformation(origin = {106, -38}, extent = {{-10, -10}, {10, 10}}), iconTransformation(origin = {106, -38}, extent = {{-10, -10}, {10, 10}})));
 
 
-  parameter Real capacity = 100 "kg";
-  parameter Real P;
-  parameter Real T;
+  parameter Modelica.Units.SI.Volume V = 7.36238 "Cylinder volume";
+  parameter Modelica.Units.SI.Pressure P "Cylinder pressure";
+  parameter Modelica.Units.SI.Temperature T "Cylinder temperature";
+  parameter Real Cv = 0.06;
+  parameter Modelica.Units.SI.Pressure P_reg;
+  parameter Real G = 0.0696 "Specific gravity";
   
-  Real fuel_percent;
   Real m_fuel;
 
-equation
+initial equation
+  m_fuel = ((P/1e5) * V * 0.002016) / (8.314 * T);
 
- if time == 0 then
-   fuel_percent = 1;
- else
-   fuel_percent = m_fuel/capacity;
- end if;
- 
-  m_fuel = m_fuel - q_fuel;
-  p_fuel = P;
-  q_fuel = 0.5*(m_fuel/capacity)*10;
+equation
+  p_fuel = P_reg;
+  //q_fuel = (sqrt(520/(G*T)) * Cg * p_fuel) * sin((59.64 / C1) * sqrt((P - p_fuel) / P))*((0.3048^3)/3600);
+  q_fuel = 0.471 * (6.950*60) * Cv * (P/1e5) * sqrt(1/(G*T)); // Cubic m/s
+  der(m_fuel) = -q_fuel*(m_fuel/V);
 
 annotation(
     uses(Modelica(version = "4.0.0")));
