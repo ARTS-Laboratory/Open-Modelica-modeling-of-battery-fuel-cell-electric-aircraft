@@ -17,7 +17,7 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this as: 
 
-@Misc{ARTSOpenModelicaModeling,    
+@Misc{ARTSLabOpenModelicaModeling,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
   title  = {Open-Modelica-modeling-of-battery-fuel-cell-electric-aircraft},  
