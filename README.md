@@ -20,7 +20,7 @@ Cite this as:
 @Misc{ARTSLabOpenModelicaModeling,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {Open-Modelica-modeling-of-battery-fuel-cell-electric-aircraft},  
+  title  = {Open {M}odelica modeling of battery fuel cell electric aircraft},  
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/Open-Modelica-modeling-of-battery-fuel-cell-electric-aircraft},   
 }
