@@ -2,6 +2,6 @@ Development files for cooling loops
 Includes:
   1) A mock fuel cell block (mockFC); waste heat treated as a source term
   2) A simple HEX (simpleHEX)
-  3) A small example loop to used to develop code (simpleCooling)
+  3) A small example loop to used to develop code (simpleCool)
     --> Eventually, the code from mockFC will have to be moved to detailedFC in the main library
     --> Likewise, eventually the simpleHEX block will have to be moved to the main library
